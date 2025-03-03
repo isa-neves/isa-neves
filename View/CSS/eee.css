@@ -1,0 +1,90 @@
+
+body{
+    background-color: rgb(224, 224, 224);
+}
+#formulario{
+    background-color: white;
+    margin:auto;
+    width: 11.2%;
+    margin-top: 5%;
+    padding: 1% 5% 2% 5%;
+    border-radius: 2%;
+}
+#botao{
+    margin-left: 15%;
+    height: 40px;
+    width: 70%;
+    border-bottom:none;
+    background-color: grey;
+}
+#botao, #botao_task:hover{
+    background-color: black;
+    color: white;
+    transition: 0.7s;
+}
+label{
+    font-family: century gothic;
+    margin-left: 3%;
+}
+input{
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    outline: none;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+input:hover{
+    outline: none;
+}
+p{
+    font-family: century gothic;
+    text-align: center;
+    font-size: 1.5em;
+}
+#form{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 67%;
+    margin: auto;
+}
+#task{
+    background-color: white;
+    border-radius: 15px;
+    font-family: verdana;
+    text-align: justify;
+    width: 70%;
+    margin: auto;
+    padding: 1.3%;
+}
+.botoes-container {
+    display: flex;
+    justify-content: flex-end; 
+    gap: 10px;
+} 
+
+#botao_task {
+    background-color: grey;
+    color: white;
+    margin: 5px; 
+    border-radius: 5px;
+    padding: 1%;
+    cursor: pointer;
+    float: right;
+    padding: 10px 20px;
+}
+
+#doneTasks{
+    background-color: rgb(111, 91, 91);
+    color: rgb(128, 128, 121);
+    border-radius: 15px;
+    font-family: verdana;
+    text-align: justify;
+    width: 70%;
+    margin: auto;
+    padding: 1.3%;
+}
+#search{
+    margin: auto;
+}
