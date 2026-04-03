@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isa-neves
-- 🌱 I’m currently learning TI
+- 🌱 I’ve been learning IT since 2023
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reache me on isa.a.nevesss@gmail.com
 - 😄 Pronouns: she/her
